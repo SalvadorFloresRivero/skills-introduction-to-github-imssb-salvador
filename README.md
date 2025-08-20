@@ -13,6 +13,8 @@ _Get started using GitHub in less than an hour._
 
 </header>
 
+UNA PRUEBA EN CONFLICTO.
+
 <!--
   <<< Author notes: Step 3 >>>
   Just a historic note: the previous version of this step forced the learner
