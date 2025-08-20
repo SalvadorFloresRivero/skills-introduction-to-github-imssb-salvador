@@ -13,7 +13,9 @@ _Get started using GitHub in less than an hour._
 
 </header>
 
-UNA PRUEBA EN CONFLICTO.
+
+Pero quiero esta linea en Main de my-first-breanch.
+
 
 <!--
   <<< Author notes: Step 3 >>>
